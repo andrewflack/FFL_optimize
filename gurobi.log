@@ -1,0 +1,374 @@
+
+Gurobi 6.0.4 (win32) logging started 08/14/15 18:51:33
+
+
+Gurobi 6.0.4 (win32) logging started 08/14/15 18:53:40
+
+Optimize a model with 1 rows, 120 columns and 120 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 1e+01]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 1 rows, 120 columns and 120 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 1e+01]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 1 rows, 120 columns and 120 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 1e+01]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 1 rows, 120 columns and 120 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 1e+01]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 1 rows, 120 columns and 120 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 1e+01]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+
+Gurobi 6.0.4 (win32) logging started 08/14/15 19:13:45
+
+Optimize a model with 2 rows, 120 columns and 197 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 2 rows, 120 columns and 197 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 2 rows, 120 columns and 197 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 3 rows, 120 columns and 217 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 4 rows, 120 columns and 237 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 7 rows, 120 columns and 297 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 11 rows, 120 columns and 377 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 11 rows, 120 columns and 377 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 11 rows, 120 columns and 377 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 7e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 59
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 5.900000000000e+01, best bound -, gap -
+Optimize a model with 11 rows, 120 columns and 377 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 11 rows, 120 columns and 377 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 11 rows, 120 columns and 377 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [4e+00, 2e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 58.4
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 5.840000000000e+01, best bound -, gap -
+Optimize a model with 12 rows, 120 columns and 397 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [4e+00, 2e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 58.4
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 5.840000000000e+01, best bound -, gap -
+Warning: constraints 12 and 13 have the same name "PayAtLeast$1"
+Optimize a model with 132 rows, 120 columns and 474 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [4e+00, 2e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible or unbounded
+Best objective -, best bound -, gap -
+Optimize a model with 12 rows, 120 columns and 397 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [4e+00, 2e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 58.4
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 5.840000000000e+01, best bound -, gap -
+Optimize a model with 12 rows, 120 columns and 397 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [4e+00, 2e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 58.4
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 5.840000000000e+01, best bound -, gap -
+Optimize a model with 12 rows, 120 columns and 397 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [4e+00, 2e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 58.4
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 5.840000000000e+01, best bound -, gap -
+Optimize a model with 12 rows, 120 columns and 397 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 13 rows, 120 columns and 517 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 12 rows, 120 columns and 397 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 13 rows, 120 columns and 517 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 132 rows, 120 columns and 517 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
+Optimize a model with 132 rows, 120 columns and 517 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 7e+01]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+00, 2e+02]
+Found heuristic solution: objective 13
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution limit reached
+Best objective 1.300000000000e+01, best bound -, gap -
